@@ -7,7 +7,6 @@ from pandas import read_csv
 import re
 from gtts import gTTS
 from pygame import mixer
-from nettest import nettest
 
 df = read_csv('FlightRouteLocationNames_UTF.csv')
 
