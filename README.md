@@ -7,8 +7,10 @@
 
 ## Example
 http://patmont.net/blog/index.php/2016/11/21/overhead-flight-announcement-project/
+
 ![Raspberry Pi3 ADSB Receiver] http://patmont.net/blog/wp-content/uploads/2016/11/IMG_2418-768x576.jpg
 
 ## Dependencies
 * Uses [dump1090-mutability](https://github.com/mutability/dump1090) for ADSB message decoding, airplane tracking, and webserving.
+* Uses Google Text To Speech [gTTS](https://github.com/pndurette/gTTS)
 * Uses [Pandas]
