@@ -16,3 +16,7 @@ http://patmont.net/blog/index.php/2016/11/21/overhead-flight-announcement-projec
 * Uses [dump1090-mutability](https://github.com/mutability/dump1090) for ADSB message decoding, airplane tracking, and webserving.
 * Uses Google Text To Speech [gTTS](https://github.com/pndurette/gTTS)
 * Uses [Pandas]
+
+## Improvements
+* Flight Route csv is not completly reliable. Prefer flight route data is pulled from web, many popular sites are pay-per-query API.
+* The csv file could be supplemented by ACARS data; this would require a 2nd data source and handling.
