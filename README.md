@@ -1,5 +1,5 @@
 # FlightAnnouncement
-[FlightAnnouncement] uses text-to-speech to announce flight and route information of overhead aircraft. Aircraft data is recieved using ATS-B data recieved using a local radio reciever (SDR), flight information is looked up against a csv file.
+[FlightAnnouncement] uses text-to-speech to announce flight and route information of overhead aircraft. Aircraft data is recieved using ADS-B data recieved using a local radio reciever (SDR), flight information is looked up against a csv file.
 
 * Flight Number, Distance, and Altitude received by SDR using Dump1090-mutability
 * Flight Data returned over http in JSON
