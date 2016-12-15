@@ -10,7 +10,7 @@
 * Announcement string is converted to mp3 format using google translate API and played back
 
 ## Example
-http://patmont.net/blog/index.php/2016/11/21/overhead-flight-announcement-project/
+http://patmont.net/ads-b-flight-path-visualization/
 
 ![Raspberry Pi3 ADSB Receiver](http://patmont.net/blog/wp-content/uploads/2016/11/IMG_2418-768x576.jpg)
 
